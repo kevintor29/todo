@@ -1,0 +1,21 @@
+export class paciente {
+    nome: string;
+    numero: number;
+    peso: number;
+    doença: string;
+
+    constructor(
+        nome: string,
+        numero: number,
+        peso: number,
+        doença: string
+    ) {
+        this.nome = nome
+        this.numero = numero
+        this.peso = peso
+        this.doença = doença
+    }
+    verdados() {
+        console.log(`O nome do paciente é: ${this.nome}, \nO numero é: ${this.numero}, \no peso é: ${this.peso}, \na donça é: ${this.doença}`)
+    }
+}
