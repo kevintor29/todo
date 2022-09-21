@@ -1,0 +1,9 @@
+pwd = en donde estoy
+cd + nombre de la pasta = acesar a esa pasta
+cd = salir de todas las pastas
+cd .. = retornar una pasta
+ls = lista pastas
+ls-la = permisos de las pastas
+mkdir = crear una pasta
+rmdir = remover una pasta
+mv nome_da_pasta nome_novo = trocar nome

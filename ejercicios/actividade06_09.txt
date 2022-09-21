@@ -1,0 +1,25 @@
+ 1) Defina o que seria uma linguagem de programação e descreva as principais características?
+
+um lenguagem de programaçao é uma ferramenta na qual descreve os procesos os quais vai facer um computador mediantes algoritmos 
+as carateristicas sao que mediantes palavras chaves ele entendi funciones as quais vai executar ; Tein uma forma certa de describir as coisas y os pasos
+que vai seguir.
+
+
+2) Descreva as principais características da linguagem javaScript.
+
+
+as principais caracteriscas e que é um lenguagem practico e simples; é tein variaveis dinamicas, é um lenguagem basado na web e cesarrollo de paginas web.
+
+
+3)Quais ambientes o javaScript pode ser executado?
+pode ser executado no navegador ou uma plataforma em conjunto con htmal.
+
+4)
+Quais são os motivos da popularidade do javaScript na comunidade de desenvolvimento?
+
+js ganho popularidade por a constente mudança e practicidade , Alem disso a quanteidades de enpresas com sucesso com ele .
+
+
+5) Por que persistência e atenção aos detalhes são habilidades e mentalidades importantes para um desenvolvedor JavaScript?
+
+por que fornecem ajuda a lograr os objetivos e ser um bom trabalhador 

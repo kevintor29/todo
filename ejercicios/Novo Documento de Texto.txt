@@ -1,0 +1,19 @@
+programa
+      {
+	
+	funcao inicio()
+	{
+  caso
+  pare
+faca
+senao
+se
+nao
+inteiro // numeros enteros del o al &
+real   //numeros con comas
+caracter //es un string
+logico //es un booleano
+
+	
+	}
+}

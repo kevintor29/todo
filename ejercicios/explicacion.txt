@@ -1,0 +1,16 @@
+1) O que e a internet. 
+2) O que significa e um get,post,put,delete.
+
+
+
+
+entrada=cartao, ropa,dinhero para passagem;
+
+proceso{sair de casa =andar +abrir porta+ fechar porta;
+
+pegar obnibus= andar ate a estaçao+ esperar obnibus + chegar obnibus +subir no obnibus + descer na estaçao do banco:
+
+retirar dinhero = andar ate caixa automatico + colocar cartao+ inserir valor desejado + seguir os pasos do banco 
++retirar dinhero +guardar dinhero;}
+
+fin= dinhero no bolso
